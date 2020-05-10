@@ -1,0 +1,2 @@
+class UnableToDecrypt(Exception):
+    pass

@@ -1,0 +1,2 @@
+class NotIntendedReceiver(Exception):
+    pass
